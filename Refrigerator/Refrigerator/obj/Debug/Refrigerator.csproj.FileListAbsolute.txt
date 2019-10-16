@@ -1,0 +1,10 @@
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\bin\Debug\Refrigerator.exe.config
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\bin\Debug\Refrigerator.exe
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\bin\Debug\Refrigerator.pdb
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.csprojAssemblyReference.cache
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.Properties.Resources.resources
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.csproj.GenerateResource.cache
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.csproj.CoreCompileInputs.cache
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.exe
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.pdb
+C:\Users\kiara\source\repos\Refrigerator\Refrigerator\obj\Debug\Refrigerator.RefrigeratorUI.resources
